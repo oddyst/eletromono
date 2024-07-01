@@ -1,6 +1,6 @@
 # EletroMono | A mono font bit styled for pixel art projects
 
-![image](https://github.com/oknauta/eletro-mono/assets/162106933/a99d2b38-6aeb-41f9-bba4-8a7e7458b67d).
+![image](https://github.com/oknauta/eletro-mono/assets/162106933/a99d2b38-6aeb-41f9-bba4-8a7e7458b67d)
 
 [Project under MIT license.](LICENSE)
 
