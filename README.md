@@ -6,4 +6,7 @@
 
 ## Special thanks
 
-This font would not be possible without this application: https://yal.cc/r/20/pixelfont/
+This font would not be possible without these application:
+
+- https://yal.cc/r/20/pixelfont/
+- https://fontforge.org/
