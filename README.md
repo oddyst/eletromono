@@ -1,12 +1,14 @@
 # EletroMono | A mono font bit styled for pixel art projects
 
-![image](https://github.com/oknauta/eletro-mono/assets/162106933/a99d2b38-6aeb-41f9-bba4-8a7e7458b67d)
+![image](https://github.com/oknauta/eletro-mono/assets/162106933/14bcb332-b0c6-4876-a055-11ced04fff1d)
 
-[Project under MIT license.](LICENSE)
+# Use EletroMono for your pixel art projects.
+
+![TEMP](https://github.com/oknauta/eletro-mono/assets/162106933/38fb5398-b75a-4457-8a68-1f310ed71319)
 
 ## Special thanks
 
 This font would not be possible without these application:
 
-- https://yal.cc/r/20/pixelfont/
-- https://fontforge.org/
+- [Pixel font converter!](https://yal.cc/r/20/pixelfont/)
+- [FontForge](https://fontforge.org/)
